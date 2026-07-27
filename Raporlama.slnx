@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../RaporlamaSetup/RaporlamaSetup.vdproj" Type="Installer">
+    <Build />
+  </Project>
+  <Project Path="Raporlama.csproj" />
+</Solution>
